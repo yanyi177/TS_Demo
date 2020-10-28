@@ -15,6 +15,7 @@
 
     <dependencyManagement>
         <dependencies>
+<!--            引入 Spring Cloud 的依赖-->
             <dependency>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-dependencies</artifactId>
@@ -22,6 +23,7 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
+<!--            引入 Spring Boot 依赖-->
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-dependencies</artifactId>
