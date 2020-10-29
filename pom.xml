@@ -6,7 +6,11 @@
 
     <groupId>org.example</groupId>
     <artifactId>TS_Demo</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.001-SNAPSHOT</version>
+    <modules>
+        <module>TS_Account</module>
+    </modules>
 
     <properties>
         <spring-cloud.version>Hoxton.SR8</spring-cloud.version>
