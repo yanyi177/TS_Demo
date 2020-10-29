@@ -11,8 +11,6 @@
     <name>TS_Demo</name>
     <modules>
         <module>TS_Account</module>
-        <module>Account-Starter</module>
-        <module>Account-Starter</module>
     </modules>
 
     <properties>

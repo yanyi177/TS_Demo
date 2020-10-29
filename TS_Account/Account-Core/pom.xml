@@ -9,11 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Account-Starter</artifactId>
-
-    <dependencies>
-
-    </dependencies>
+    <artifactId>Account-Core</artifactId>
 
 
 </project>

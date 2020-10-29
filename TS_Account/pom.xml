@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Account-Starter</module>
+        <module>Account-Core</module>
     </modules>
 
 
