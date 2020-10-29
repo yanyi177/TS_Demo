@@ -12,7 +12,12 @@
     <artifactId>Account-Starter</artifactId>
 
     <dependencies>
-
+        <dependency>
+            <groupId>org.example.tsdemo</groupId>
+            <artifactId>Account-Core</artifactId>
+            <version>${project.version}</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
 
