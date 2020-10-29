@@ -7,9 +7,12 @@
     <groupId>org.example</groupId>
     <artifactId>TS_Demo</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.001-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>TS_Demo</name>
     <modules>
         <module>TS_Account</module>
+        <module>Account-Starter</module>
+        <module>Account-Starter</module>
     </modules>
 
     <properties>
