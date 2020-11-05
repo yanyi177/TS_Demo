@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Account-Core</artifactId>
+    <artifactId>Account-API</artifactId>
 
 
 </project>
